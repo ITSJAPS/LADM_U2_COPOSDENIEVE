@@ -41,8 +41,8 @@ class Copos(l:Lienzo){
     }
 
     init {
-        x = rand(1000)
-        y = rand(1000)
+        x = rand(1080)
+        y = rand(2100)
         movX = rand(6)+2
         movY = rand(6)+2
 
